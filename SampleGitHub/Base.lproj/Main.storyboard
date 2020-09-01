@@ -25,6 +25,25 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="-103" y="136"/>
+        </scene>
+        <!--Second View Controller-->
+        <scene sceneID="t8y-qI-oj4">
+            <objects>
+                <viewController id="ZlM-TG-luS" customClass="SecondViewController" customModule="SampleGitHub" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="B5c-rv-7Vf"/>
+                        <viewControllerLayoutGuide type="bottom" id="LuI-j8-N6A"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="r6z-i6-hLt">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="fNO-Jd-iZU" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="540" y="137"/>
         </scene>
     </scenes>
 </document>
