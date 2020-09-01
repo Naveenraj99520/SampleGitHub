@@ -13,6 +13,7 @@ class ThirdViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        print("ThirdCommit")
+        print("ThirdCommits")
     }
 
     override func didReceiveMemoryWarning() {
