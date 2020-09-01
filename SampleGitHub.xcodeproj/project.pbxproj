@@ -15,6 +15,7 @@
 		C733482424FE4774004FB10F /* SampleGitHubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C733482324FE4774004FB10F /* SampleGitHubTests.swift */; };
 		C733482F24FE4775004FB10F /* SampleGitHubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C733482E24FE4775004FB10F /* SampleGitHubUITests.swift */; };
 		C733483D24FE4A26004FB10F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C733483C24FE4A26004FB10F /* SecondViewController.swift */; };
+		C733483F24FE4BA2004FB10F /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C733483E24FE4BA2004FB10F /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C733482E24FE4775004FB10F /* SampleGitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleGitHubUITests.swift; sourceTree = "<group>"; };
 		C733483024FE4775004FB10F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C733483C24FE4A26004FB10F /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		C733483E24FE4BA2004FB10F /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				C733481024FE4774004FB10F /* ViewController.swift */,
 				C733483C24FE4A26004FB10F /* SecondViewController.swift */,
 				C733481224FE4774004FB10F /* Main.storyboard */,
+				C733483E24FE4BA2004FB10F /* ThirdViewController.swift */,
 				C733481524FE4774004FB10F /* Assets.xcassets */,
 				C733481724FE4774004FB10F /* LaunchScreen.storyboard */,
 				C733481A24FE4774004FB10F /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				C733483D24FE4A26004FB10F /* SecondViewController.swift in Sources */,
 				C733481124FE4774004FB10F /* ViewController.swift in Sources */,
+				C733483F24FE4BA2004FB10F /* ThirdViewController.swift in Sources */,
 				C733480F24FE4774004FB10F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

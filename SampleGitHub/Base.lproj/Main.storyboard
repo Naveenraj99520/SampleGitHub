@@ -45,5 +45,23 @@
             </objects>
             <point key="canvasLocation" x="540" y="137"/>
         </scene>
+        <!--Third View Controller-->
+        <scene sceneID="tRm-SC-3VV">
+            <objects>
+                <viewController id="5KL-5d-ddY" customClass="ThirdViewController" customModule="SampleGitHub" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Svs-Bh-Kdl"/>
+                        <viewControllerLayoutGuide type="bottom" id="Dp1-0Z-EOt"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="EmU-K3-5oO">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.14346538434945266" green="0.70039430356667864" blue="0.74464168850000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="uZB-Qw-jOT" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1167" y="135"/>
+        </scene>
     </scenes>
 </document>
